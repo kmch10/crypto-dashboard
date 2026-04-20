@@ -1,8 +1,8 @@
-# 🚀 Crypto Dashboard
+# Crypto Dashboard
 
 A modern crypto dashboard built with React that displays real-time cryptocurrency data with charts and search functionality.
 
-## 🔥 Features
+## Features
 - Live crypto prices (CoinGecko API)
 - Search functionality with debounce
 - Interactive charts (Recharts)
@@ -10,7 +10,7 @@ A modern crypto dashboard built with React that displays real-time cryptocurrenc
 - Performance optimized rendering
 - Infinite scrolling (optional)
 
-## 🛠️ Tech Stack
+## Tech Stack
 - React
 - JavaScript
 - Axios
@@ -20,7 +20,7 @@ A modern crypto dashboard built with React that displays real-time cryptocurrenc
 ## 📸 Preview
 
 
-## 🚀 How to Run
+## How to Run
 ```bash
 npm install
 npm run dev
